@@ -1,7 +1,7 @@
 
 # LIVRO DE RECEITAS 🧑‍🍳
 
-Olá, bem vindo ao a meu livro de receitas!
+Olá, bem vindo ao meu livro de receitas!
 
 - Strogonoff de frango 🐔
 
